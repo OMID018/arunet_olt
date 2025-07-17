@@ -12,7 +12,7 @@ This repository contains a trained ARUNet model and a complete inference pipelin
 - **Input:** 256×256 patches with 3 channels (CHM, DSM, DEM)
 - **Output:** Predicted probability map of OLTs
 - **Resolution:** 0.4 meters
-- **Framework:** TensorFlow 2.x
+- **Framework:** TensorFlow 2.x, ArcGIS api
 
 ---
 
