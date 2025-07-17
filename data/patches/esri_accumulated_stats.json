@@ -1,0 +1,82 @@
+{
+  "Version" : 1,
+  "NumBands" : 3,
+  "TileSizeX" : 256,
+  "TileSizeY" : 256,
+  "NumClasses" : 0,
+  "NumTiles" : 240,
+  "NumTilesAsDouble" : 240,
+  "NextTileIndex" : 240,
+  "OutputFeatures" : true,
+  "MetaDataMode" : "Export_Tiles",
+  "MinCellSize" : {
+    "x" : 0.39999999999983094,
+    "y" : 0.39999999999981772,
+    "spatialReference" : {
+      "wkt" : "PROJCS[\"EUREF_FIN_TM35FIN\",GEOGCS[\"GCS_EUREF_FIN\",DATUM[\"D_ETRS_1989\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",500000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",27.0],PARAMETER[\"Scale_Factor\",0.9996],PARAMETER[\"Latitude_Of_Origin\",0.0],UNIT[\"Meter\",1.0]],VERTCS[\"unknown\",VDATUM[\"unknown\"],PARAMETER[\"Vertical_Shift\",0.0],PARAMETER[\"Direction\",1.0],UNIT[\"Meter\",1.0]]"
+    }
+  },
+  "MaxCellSize" : {
+    "x" : 0.39999999999983094,
+    "y" : 0.39999999999981772,
+    "spatialReference" : {
+      "wkt" : "PROJCS[\"EUREF_FIN_TM35FIN\",GEOGCS[\"GCS_EUREF_FIN\",DATUM[\"D_ETRS_1989\",SPHEROID[\"GRS_1980\",6378137.0,298.257222101]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"False_Easting\",500000.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",27.0],PARAMETER[\"Scale_Factor\",0.9996],PARAMETER[\"Latitude_Of_Origin\",0.0],UNIT[\"Meter\",1.0]],VERTCS[\"unknown\",VDATUM[\"unknown\"],PARAMETER[\"Vertical_Shift\",0.0],PARAMETER[\"Direction\",1.0],UNIT[\"Meter\",1.0]]"
+    }
+  },
+  "FeatureStats" : {
+    "NumClasses" : 0,
+    "NumImagesTotal" : 0,
+    "NumFeaturesTotal" : 0,
+    "NumImagesPerClass" : [
+    ],
+    "NumFeaturesPerClass" : [
+    ],
+    "NumFeaturesPerImage" : {
+      "Min" : 0,
+      "Max" : 0,
+      "Mean" : 0,
+      "Sum" : 0,
+      "Count" : 0
+    },
+    "FeatureAreaPerClass" : [
+    ]
+  },
+  "InputRastersProps" : {
+    "RasterCount" : 1,
+    "SensorName" : "Undefined",
+    "BandNames" : [
+      "",
+      "",
+      ""
+    ]
+  },
+  "BandStatsState" : [
+    {
+      "Min" : 6.94696044921875,
+      "Max" : 255,
+      "Mean" : 0,
+      "StdDev" : 0,
+      "M1" : 213.14801725159995,
+      "M2" : 22896450906.217648,
+      "Num" : 13871216
+    },
+    {
+      "Min" : 1.0786895751953125,
+      "Max" : 255,
+      "Mean" : 0,
+      "StdDev" : 0,
+      "M1" : 154.70056983099164,
+      "M2" : 25579562072.43536,
+      "Num" : 13871216
+    },
+    {
+      "Min" : 1,
+      "Max" : 255,
+      "Mean" : 0,
+      "StdDev" : 0,
+      "M1" : 77.576888933169201,
+      "M2" : 6901843594.6465435,
+      "Num" : 13871216
+    }
+  ]
+}
