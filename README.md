@@ -25,11 +25,13 @@ STEP 1: Clone the repository
 %cd arunet_olt
 
 STEP 2: Install requirements
+
 !pip install -r requirements.txt
 
 STEP 3: Use input data to perform inference with the model
 
 STEP 4: Run the full pipeline
+
 !python main.py
 
 
