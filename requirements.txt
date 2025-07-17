@@ -1,0 +1,12 @@
+numpy
+scikit-image
+rasterio
+shapely
+geopandas
+centerline
+matplotlib
+pandas
+imagecodecs
+
+# TensorFlow with GPU (CUDA) support for Python 3.11
+tensorflow[and-cuda]>=2.12.0
