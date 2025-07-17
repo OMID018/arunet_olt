@@ -22,6 +22,7 @@ This repository contains a trained ARUNet model and a complete inference pipelin
 STEP 1: Clone the repository
 
 !git clone https://github.com/OMID018/arunet_olt.git
+
 %cd arunet_olt
 
 STEP 2: Install requirements
