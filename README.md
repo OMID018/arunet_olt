@@ -8,7 +8,7 @@ This repository contains a trained ARUNet model and a complete inference pipelin
 ## 🧠 Model Description
 
 - **Architecture:** Attention Residual U-Net (ARUNet) for segmenting of OLTs
-<img width="1280" height="720" alt="RAUNET" src="https://github.com/user-attachments/assets/fb31ef97-b663-43ac-ab1e-eb78365ddaac" />
+- **<img width="1280" height="720" alt="RAUNET" src="https://github.com/user-attachments/assets/fb31ef97-b663-43ac-ab1e-eb78365ddaac" />
 - **Input:** 256×256 patches with 3 channels (CHM, DSM, DEM)
 - **Output:** Predicted probability map of OLTs, segmented raster of OLts, polygons of OLTs, and centerlines of OLTs
 - **Resolution:** 0.4 meters
